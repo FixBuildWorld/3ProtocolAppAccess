@@ -7,6 +7,14 @@
         "0A:74:EA:9B:AC:1B:6B:57:66:C0:40:8D:A7:C4:CE:D8:51:B7:FD:FC:DC:0B:55:CA:A7:12:60:C3:B9:24:C3:4D": {
             "cBlockNotice": "5sZhDMxxx+f9rTQKiCH7QReqSEKuqtHo897Y6xjoXLD9Ie5vQ5UeF36gmg670LB3+NAPwASoTeu7deef1Ss2v+ngdGtwBrxEcXuynOAj0NC+Ypcv4mjfwF5ljeR3c0Geh8oPt7Adhvd0vrO/5DYYxfsOYOUzJWb1c6DvmebVWDuJ/use"
         }
+    },    
+    "app.fixbuild.MtkGenuineProV2Core": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBanNotice": "fstk8K6jogJMfR1yzmSPNJ8t2y5llG4bcsLCYJSxg5kKmFjun30DqEDX4zxS8E6gImq7MxtF8+NZ58XbERh8zMYmtdg41X4R5JxSRWGWVqZSwp3bmmjBfv/CGbFpGyvR",
+        "0A:74:EA:9B:AC:1B:6B:57:66:C0:40:8D:A7:C4:CE:D8:51:B7:FD:FC:DC:0B:55:CA:A7:12:60:C3:B9:24:C3:4D": {
+            "cBlockNotice": "5sZhDMxxx+f9rTQKiCH7QReqSEKuqtHo897Y6xjoXLD9Ie5vQ5UeF36gmg670LB3+NAPwASoTeu7deef1Ss2v+ngdGtwBrxEcXuynOAj0NC+Ypcv4mjfwF5ljeR3c0Geh8oPt7Adhvd0vrO/5DYYxfsOYOUzJWb1c6DvmebVWDuJ/use"
+        }
     },
      "app.fixbuild.MtkGenuineProBp": {
         "isDestroy": false,
